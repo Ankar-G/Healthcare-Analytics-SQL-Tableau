@@ -48,7 +48,7 @@ High-level KPIs for hospital leadership at a glance.
 ### 2. Hospital Operations & Department Performance
 Drill-down view of departmental efficiency and resource utilization.
 
-![Operations Dashboard](assets/dashboard_operations.png)
+![Operations Dashboard](https://github.com/Ankar-G/Healthcare-Analytics-SQL-Tableau/blob/main/Dashboard%20Screenshots/Screenshot%202026-06-08%20123126.png)
 
 **Includes:**
 - Revenue by Department
@@ -63,7 +63,7 @@ Drill-down view of departmental efficiency and resource utilization.
 ### 3. Patient & Doctor Insights Dashboard
 Demographic and doctor-level performance analytics.
 
-![Patient & Doctor Dashboard](assets/dashboard_patient_doctor.png)
+![Patient & Doctor Dashboard](https://github.com/Ankar-G/Healthcare-Analytics-SQL-Tableau/blob/main/Dashboard%20Screenshots/Screenshot%202026-06-08%20123351.png)
 
 **Includes:**
 - Patient distribution by Gender, Age Group, and Insurance Type
