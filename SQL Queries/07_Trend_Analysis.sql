@@ -1,0 +1,49 @@
+# Trend Analysis
+
+
+-- Monthly Admissions Trend
+SELECT 
+    DATE_FORMAT(ADMISSION_DATE, '%Y-%M') AS Month_Year,
+    COUNT(ADMISSION_ID) AS Total_Admissions
+FROM
+    ADMISSIONS
+GROUP BY MONTH_YEAR
+ORDER BY MONTH_YEAR;
+
+
+-- Monthly Revenue Trend
+SELECT 
+    DATE_FORMAT(ADMISSION_DATE, '%Y-%M') AS Month_Year,
+    SUM(REVENUE) AS Total_Revenue
+FROM
+    ADMISSIONS
+GROUP BY MONTH_YEAR
+ORDER BY MONTH_YEAR;
+
+
+-- Monthly Appointments Trend
+SELECT 
+    DATE_FORMAT(APPOINTMENT_DATE, '%Y-%M') AS Month_Year,
+    COUNT(APPOINTMENT_ID) AS Total_Appointments
+FROM
+    APPOINTMENTS
+GROUP BY MONTH_YEAR
+ORDER BY MONTH_YEAR;
+
+
+-- Yearly Revenue Trend
+SELECT 
+    YEAR(ADMISSION_DATE) AS YEARS, SUM(Revenue) AS Total_Revenue
+FROM
+    ADMISSIONS
+GROUP BY YEARS
+ORDER BY YEARS;
+
+-- Yearly Admission Trend
+SELECT 
+    YEAR(ADMISSION_DATE) AS Years,
+    COUNT(ADMISSION_ID) AS Total_Admissions
+FROM
+    ADMISSIONS
+GROUP BY YEARS
+ORDER BY YEARS;
