@@ -34,7 +34,7 @@ Develop a comprehensive Healthcare Analytics dashboard using **SQL** for data ex
 ### 1. Executive Overview Dashboard
 High-level KPIs for hospital leadership at a glance.
 
-![Executive Overview Dashboard](https://github.com/Ankar-G/Healthcare-Analytics-SQL-Tableau/blob/main/Dashboard%20Screenshots/Screenshot%202026-06-08%20123113.png)
+![Executive Overview Dashboard](https://github.com/Ankar-G/Healthcare-Analytics-SQL-Tableau/blob/main/Dashboard%20Screenshots/Screenshot%202026-06-08%20132334.png)
 
 **Includes:**
 - Total Patients, Admissions, Revenue, Avg. Wait Time, Avg. Length of Stay, Avg. Satisfaction Score
@@ -63,7 +63,7 @@ Drill-down view of departmental efficiency and resource utilization.
 ### 3. Patient & Doctor Insights Dashboard
 Demographic and doctor-level performance analytics.
 
-![Patient & Doctor Dashboard](https://github.com/Ankar-G/Healthcare-Analytics-SQL-Tableau/blob/main/Dashboard%20Screenshots/Screenshot%202026-06-08%20123351.png)
+![Patient & Doctor Dashboard](https://github.com/Ankar-G/Healthcare-Analytics-SQL-Tableau/blob/main/Dashboard%20Screenshots/Screenshot%202026-06-08%20132957.png)
 
 **Includes:**
 - Patient distribution by Gender, Age Group, and Insurance Type
