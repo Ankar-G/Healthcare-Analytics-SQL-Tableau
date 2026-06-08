@@ -181,9 +181,9 @@ hospital-analytics/
 ## 📬 Contact
 
 **Your Name**
-- 📧 your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 📧 goswamijit99@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankar-goswami-23a196245?skipRedirect=true&miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADy3ns4BZhrcHBvr02YEN38UEJ9TwEWdaxk)
+- 🐙 [GitHub]([https://github.com/yourusername](https://github.com/Ankar-G))
 
 ---
 
