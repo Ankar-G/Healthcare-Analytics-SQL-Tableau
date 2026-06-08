@@ -1,0 +1,141 @@
+Doctor_ID,Doctor_Name,Department_ID,Experience_Years,Qualification
+DR0001,Dr. Sandeep Verma,D001,15,"MD, DM Cardiology"
+DR0002,Dr. Meena Gupta,D001,3,DNB Cardiology
+DR0003,Dr. Mohan Kumar,D001,6,"MD, DM Cardiology"
+DR0004,Dr. Sunita Mishra,D001,28,DM (Cardiology)
+DR0005,Dr. Vinod Mishra,D001,6,DM (Cardiology)
+DR0006,Dr. Rajesh Mehta,D001,19,"MD, DM Cardiology"
+DR0007,Dr. Dinesh Singh,D001,22,DNB Cardiology
+DR0008,Dr. Harish Banerjee,D001,14,"MD, DM Cardiology"
+DR0009,Dr. Kavita Chauhan,D001,2,"MD, DM Cardiology"
+DR0010,Dr. Sohan Mukherjee,D001,29,DM (Cardiology)
+DR0011,Dr. Kavita Mehta,D002,35,DNB Neurology
+DR0012,Dr. Girish Joshi,D002,10,"MBBS, MD, DM"
+DR0013,Dr. Dinesh Gupta,D002,7,"MBBS, MD, DM"
+DR0014,Dr. Pooja Nair,D002,21,MD Neurology
+DR0015,Dr. Girish Pandey,D002,33,DNB Neurology
+DR0016,Dr. Rekha Singh,D002,21,DM (Neurology)
+DR0017,Dr. Mohan Roy,D002,23,"MBBS, MD, DM"
+DR0018,Dr. Sunil Dubey,D002,19,MD Neurology
+DR0019,Dr. Sunil Kumar,D002,15,DM (Neurology)
+DR0020,Dr. Vivek Verma,D003,7,MS (Ortho)
+DR0021,Dr. Shiv Tiwari,D003,19,MS Orthopedics
+DR0022,Dr. Ashok Verma,D003,31,DNB Orthopaedics
+DR0023,Dr. Mahesh Verma,D003,8,MS Orthopedics
+DR0024,Dr. Sunil Malhotra,D003,16,MS Orthopedics
+DR0025,Dr. Naresh Reddy,D003,15,MS (Ortho)
+DR0026,Dr. Sandeep Banerjee,D003,5,MS (Ortho)
+DR0027,Dr. Sohan Srivastava,D003,26,MS Orthopedics
+DR0028,Dr. Mohan Verma,D003,5,MS Orthopedics
+DR0029,Dr. Rajan Malhotra,D004,22,DNB Pediatrics
+DR0030,Dr. Kavita Reddy,D004,18,"MBBS, MD"
+DR0031,Dr. Kavita Pandey,D004,18,"DCH, MD"
+DR0032,Dr. Vinod Srivastava,D004,33,"DCH, MD"
+DR0033,Dr. Pooja Reddy,D004,7,"MBBS, MD"
+DR0034,Dr. Pooja Chatterjee,D004,32,"DCH, MD"
+DR0035,Dr. Rajesh Reddy,D004,16,MD Pediatrics
+DR0036,Dr. Mohan Mukherjee,D004,6,"DCH, MD"
+DR0037,Dr. Rakesh Kumar,D005,12,MBBS
+DR0038,Dr. Vinod Iyer,D005,35,MBBS
+DR0039,Dr. Dinesh Nair,D005,2,DNB Emergency
+DR0040,Dr. Pooja Srivastava,D005,34,"MBBS, MD"
+DR0041,Dr. Rakesh Sharma,D005,32,DNB Emergency
+DR0042,Dr. Prem Mehta,D005,25,MD Emergency Medicine
+DR0043,Dr. Harish Patel,D005,20,MD Emergency Medicine
+DR0044,Dr. Anil Chauhan,D005,34,DNB Emergency
+DR0045,Dr. Rakesh Tiwari,D005,9,"MBBS, MD"
+DR0046,Dr. Nisha Pandey,D005,12,DNB Emergency
+DR0047,Dr. Ramesh Das,D005,35,DNB Emergency
+DR0048,Dr. Anil Chopra,D005,5,"MBBS, MD"
+DR0049,Dr. Sunita Kumar,D005,33,DNB Emergency
+DR0050,Dr. Sandeep Gupta,D005,23,"MBBS, MD"
+DR0051,Dr. Mahesh Banerjee,D005,5,DNB Emergency
+DR0052,Dr. Kiran Chopra,D006,13,"MD, DM"
+DR0053,Dr. Ramesh Pandey,D006,3,DM Oncology
+DR0054,Dr. Vinod Roy,D006,15,"MBBS, MD, DM Oncology"
+DR0055,Dr. Raj Nair,D006,10,"MBBS, MD, DM Oncology"
+DR0056,Dr. Prem Shah,D006,35,DM Oncology
+DR0057,Dr. Priya Reddy,D006,23,"MD, DM"
+DR0058,Dr. Harish Iyer,D006,17,DNB Oncology
+DR0059,Dr. Rekha Verma,D006,14,DNB Oncology
+DR0060,Dr. Dev Roy,D006,5,"MBBS, MD, DM Oncology"
+DR0061,Dr. Anita Reddy,D006,8,DNB Oncology
+DR0062,Dr. Raj Chopra,D007,13,DVD
+DR0063,Dr. Girish Reddy,D007,20,DVD
+DR0064,Dr. Sunita Tiwari,D007,8,MD Dermatology
+DR0065,Dr. Meena Das,D007,17,DVD
+DR0066,Dr. Priya Tiwari,D007,14,"MBBS, MD"
+DR0067,Dr. Pooja Mukherjee,D007,31,MD Dermatology
+DR0068,Dr. Ashok Dubey,D007,24,"MBBS, MD"
+DR0069,Dr. Anil Das,D007,18,DNB Dermatology
+DR0070,Dr. Sandeep Kumar,D008,18,"MBBS, MD"
+DR0071,Dr. Ashok Sharma,D008,29,"MD, DM"
+DR0072,Dr. Sandeep Srivastava,D008,9,"MBBS, MD"
+DR0073,Dr. Sohan Kapoor,D008,20,DM Gastroenterology
+DR0074,Dr. Sunil Das,D008,25,DNB Gastro
+DR0075,Dr. Priya Iyer,D008,35,DM Gastroenterology
+DR0076,Dr. Sandeep Srivastava,D008,34,DNB Gastro
+DR0077,Dr. Rajesh Chauhan,D008,18,DNB Gastro
+DR0078,Dr. Girish Verma,D009,19,DNB Pulmonology
+DR0079,Dr. Sunil Das,D009,6,MD Pulmonology
+DR0080,Dr. Girish Mukherjee,D009,21,"MBBS, MD"
+DR0081,Dr. Rakesh Srivastava,D009,21,DNB Pulmonology
+DR0082,Dr. Ramesh Tiwari,D009,6,DNB Pulmonology
+DR0083,Dr. Priya Mukherjee,D009,20,DM Pulmonology
+DR0084,Dr. Mahesh Chatterjee,D009,31,"MBBS, MD"
+DR0085,Dr. Anil Yadav,D009,3,MD Pulmonology
+DR0086,Dr. Nisha Mehta,D010,4,DNB Nephrology
+DR0087,Dr. Harish Malhotra,D010,30,DM Nephrology
+DR0088,Dr. Dev Reddy,D010,15,"MBBS, MD"
+DR0089,Dr. Pooja Joshi,D010,17,"MD, DM Nephrology"
+DR0090,Dr. Prem Reddy,D010,25,DM Nephrology
+DR0091,Dr. Rekha Banerjee,D010,3,"MD, DM Nephrology"
+DR0092,Dr. Anil Nair,D010,21,DNB Nephrology
+DR0093,Dr. Shiv Mehta,D010,27,DM Nephrology
+DR0094,Dr. Priya Reddy,D011,2,DNB Psychiatry
+DR0095,Dr. Naresh Chatterjee,D011,27,Doctor of Medicine Psychiatry
+DR0096,Dr. Rajan Dubey,D011,4,DNB Psychiatry
+DR0097,Dr. Sunita Joshi,D011,23,DNB Psychiatry
+DR0098,Dr. Rajan Reddy,D011,10,"DPM, MD"
+DR0099,Dr. Sunita Mukherjee,D011,15,"MBBS, MD"
+DR0100,Dr. Kavita Iyer,D011,25,"DPM, MD"
+DR0101,Dr. Rajesh Sharma,D011,1,"MBBS, MD"
+DR0102,Dr. Sunita Pillai,D011,29,DNB Psychiatry
+DR0103,Dr. Kiran Kapoor,D012,5,"DGO, MD"
+DR0104,Dr. Mahesh Kapoor,D012,22,"DGO, MD"
+DR0105,Dr. Mahesh Dubey,D012,31,DNB OBG
+DR0106,Dr. Mahesh Mukherjee,D012,20,MS Gynecology
+DR0107,Dr. Girish Pandey,D012,19,"MBBS, MS"
+DR0108,Dr. Anita Patel,D012,16,"DGO, MD"
+DR0109,Dr. Vivek Rao,D012,27,DNB OBG
+DR0110,Dr. Girish Roy,D012,5,"DGO, MD"
+DR0111,Dr. Vinod Tiwari,D013,17,"DLO, MS"
+DR0112,Dr. Vivek Pillai,D013,16,"MBBS, MS"
+DR0113,Dr. Dinesh Roy,D013,6,"DLO, MS"
+DR0114,Dr. Sandeep Kumar,D013,34,MS ENT
+DR0115,Dr. Ramesh Patel,D013,10,DNB ENT
+DR0116,Dr. Ashok Gupta,D013,31,DNB ENT
+DR0117,Dr. Kavita Iyer,D013,14,"MBBS, MS"
+DR0118,Dr. Harish Das,D013,25,"MBBS, MS"
+DR0119,Dr. Meena Joshi,D014,34,MS Ophthalmology
+DR0120,Dr. Harish Chopra,D014,26,MS Ophthalmology
+DR0121,Dr. Vinod Bose,D014,26,Master of Surgery Ophthalmology
+DR0122,Dr. Raj Sharma,D014,14,DNB Ophthalmology
+DR0123,Dr. Rajesh Shah,D014,32,"DO, MS"
+DR0124,Dr. Rakesh Gupta,D014,9,MS Ophthalmology
+DR0125,Dr. Sandeep Bose,D014,28,DNB Ophthalmology
+DR0126,Dr. Priya Patel,D015,8,MBBS
+DR0127,Dr. Anil Gupta,D015,11,"MBBS, MD"
+DR0128,Dr. Anita Roy,D015,11,MBBS
+DR0129,Dr. Dinesh Singh,D015,21,"MBBS, MD"
+DR0130,Dr. Sunita Sharma,D015,27,DNB General Medicine
+DR0131,Dr. Kavita Mehta,D015,19,MBBS
+DR0132,Dr. Rakesh Gupta,D015,7,"MBBS, MD"
+DR0133,Dr. Prem Chauhan,D015,34,DNB General Medicine
+DR0134,Dr. Kiran Iyer,D015,27,MBBS
+DR0135,Dr. Sunil Rao,D015,15,"MBBS, MD"
+DR0136,Dr. Sandeep Patel,D015,6,Doctor of Medicine General Medicine
+DR0137,Dr. Naresh Gupta,D015,24,MD General Medicine
+DR0138,Dr. Pooja Banerjee,D015,15,MD General Medicine
+DR0139,Dr. Dev Yadav,D015,9,DNB General Medicine
+DR0140,Dr. Raj Reddy,D015,5,DNB General Medicine
