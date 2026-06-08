@@ -157,26 +157,7 @@ hospital-analytics/
 └── README.md
 ```
 
----
 
-## 🚀 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/hospital-analytics.git
-   cd hospital-analytics
-   ```
-
-2. **Set up the database**
-   - Import `data/hospital_data.csv` into your SQL environment (MySQL / PostgreSQL / SQL Server)
-   - Run scripts in the `sql/` folder in numbered order
-
-3. **Open Tableau**
-   - Open `tableau/hospital_analytics.twbx` in Tableau Desktop
-   - Connect to your database or use the embedded extract
-   - Explore the three dashboard tabs
-
----
 
 ## 📬 Contact
 
